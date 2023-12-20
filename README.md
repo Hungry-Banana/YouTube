@@ -1,2 +1,2 @@
 # YouTube
-First update to push notifications to Discord
+First update to push notifications to Discord!
