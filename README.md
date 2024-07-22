@@ -1,2 +1,3 @@
 # YouTube
-First update to push notifications to Discord!
+-Projects
+    - https://github.com/Hungry-Banana/Kubernetes-home-cloud
